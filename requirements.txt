@@ -1,0 +1,10 @@
+django
+django-microsoft-authentication
+python-dotenv
+django-tailwind
+django-tailwind[reload]
+requests
+django-crispy-forms 
+crispy-bootstrap5
+django-browser-reload
+XlsxWriter
